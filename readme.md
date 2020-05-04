@@ -18,6 +18,5 @@ Scale generator for music practise. Gives you a key and a scale from this list:
 - Altered phrygian
 - Locrian
 - Super locrian/Altered dominant
-- Locrian natural 2?
 - Whole tone
 - Half diminish

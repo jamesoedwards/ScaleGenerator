@@ -1,0 +1,21 @@
+SCALELIST = [
+        "pentatonic",
+        "blues",
+        "lydian",
+        "lydian dominant (b7)",
+        "lydian augmented (#5)",
+        "ionian",
+        "harmonic major",
+        "melodic major",
+        "mixolydian",
+        "dorian",
+        "aeolian",
+        "melodic minor",
+        "harmonic minor",
+        "phrygian",
+        "altered phrygian",
+        "locrian",
+        "super locrian/altered dominant",
+        "whole tone",
+        "half diminished"
+]
