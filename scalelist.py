@@ -1,6 +1,8 @@
 SCALELIST = [
-        "pentatonic",
-        "blues",
+        "major pentatonic",
+        "minor pentatonic",
+        "major blues",
+        "minor blues",
         "lydian",
         "lydian dominant",
         "lydian augmented",

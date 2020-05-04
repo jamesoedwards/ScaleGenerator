@@ -1,8 +1,8 @@
 # ScaleGenerator
 
 Scale generator for music practise. Gives you a key and a scale from this list:
-- Pentatonic
-- Blues
+- Pentatonic (major & minor)
+- Blues (major & minor)
 - Lydian
 - Lydian dominant (b7)
 - Lydian augmented (#5)
