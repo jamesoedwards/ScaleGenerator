@@ -19,4 +19,4 @@ Scale generator for music practise. Gives you a key and a scale from this list:
 - Locrian
 - Super locrian/Altered dominant
 - Whole tone
-- Half diminish
+- Diminished
