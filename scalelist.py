@@ -15,7 +15,8 @@ SCALELIST = [
         "phrygian",
         "altered phrygian",
         "locrian",
-        "super locrian/altered dominant",
+        "super locrian",
+        "altered dominant",
         "whole tone",
         "half diminished"
 ]
