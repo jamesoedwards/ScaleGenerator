@@ -20,5 +20,5 @@ SCALELIST = [
         "super locrian",
         "altered dominant",
         "whole tone",
-        "half diminished"
+        "diminished"
 ]
